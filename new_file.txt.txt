@@ -4,4 +4,8 @@ Changes from someone on cloud
 
 Changes made on server
 
+<<<<<<< HEAD
 Change made on server again.
+=======
+The 4th change on local machine.
+>>>>>>> main
