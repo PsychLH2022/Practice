@@ -1,0 +1,11 @@
+cat
+dog
+pig
+cow
+tiger
+bird
+wolf
+horse
+squrral
+lion
+snake
